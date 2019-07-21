@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NativeCodeSample</string>
+    <string name="btnPressMe">Press Me!</string>
+</resources>
